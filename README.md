@@ -37,3 +37,36 @@ mvn clean compile org.openjfx:javafx-maven-plugin:0.0.8:run
 ```
 
 ## Project Structure
+
+src/main/java/nl/nhlstenden/ap/
+├── algorithms/          Sorting and searching algorithms
+│   ├── Sorter.java
+│   ├── Searcher.java
+│   ├── InsertionSort.java
+│   ├── QuickSort.java
+│   ├── SequentialSearch.java
+│   └── BinarySearch.java
+├── datastructures/      Custom-built data structures
+│   ├── CustomList.java
+│   ├── CustomMap.java
+│   ├── CustomTree.java
+│   ├── CustomLinkedList.java
+│   ├── CustomHashMap.java
+│   └── CustomBinarySearchTree.java
+├── gui/                 JavaFX graphical user interface
+│   └── MainApp.java
+├── model/               Data model with comparators
+│   └── DataRecord.java
+└── util/                Utilities
+├── AlgorithmTimer.java
+└── DatasetLoader.java
+
+## Dataset
+The application uses a CSV dataset with the following format:
+id,title,year,rating,genre
+A sample dataset with 50 movies is included in `src/main/resources/movies.csv`.
+
+## Technologies
+- Java 17
+- JavaFX 21
+- Maven
