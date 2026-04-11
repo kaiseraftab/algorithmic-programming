@@ -1,0 +1,51 @@
+id,title,year,rating,genre
+1,The Shawshank Redemption,1994,9.3,Drama
+2,The Godfather,1972,9.2,Crime
+3,The Dark Knight,2008,9.0,Action
+4,Pulp Fiction,1994,8.9,Crime
+5,Forrest Gump,1994,8.8,Drama
+6,Inception,2010,8.8,Sci-Fi
+7,The Matrix,1999,8.7,Sci-Fi
+8,Goodfellas,1990,8.7,Crime
+9,Fight Club,1999,8.8,Drama
+10,Interstellar,2014,8.7,Sci-Fi
+11,The Silence of the Lambs,1991,8.6,Thriller
+12,Se7en,1995,8.6,Thriller
+13,The Green Mile,1999,8.6,Drama
+14,Gladiator,2000,8.5,Action
+15,The Departed,2006,8.5,Crime
+16,Whiplash,2014,8.5,Drama
+17,The Prestige,2006,8.5,Thriller
+18,Memento,2000,8.4,Thriller
+19,Django Unchained,2012,8.4,Western
+20,The Lion King,1994,8.5,Animation
+21,Saving Private Ryan,1998,8.6,War
+22,Schindlers List,1993,9.0,Drama
+23,Spirited Away,2001,8.6,Animation
+24,Parasite,2019,8.5,Thriller
+25,Joker,2019,8.4,Drama
+26,Avengers Endgame,2019,8.4,Action
+27,The Truman Show,1998,8.2,Comedy
+28,Jurassic Park,1993,8.2,Sci-Fi
+29,Back to the Future,1985,8.5,Sci-Fi
+30,Alien,1979,8.5,Horror
+31,Blade Runner,1982,8.1,Sci-Fi
+32,Terminator 2,1991,8.6,Action
+33,Die Hard,1988,8.2,Action
+34,Titanic,1997,7.9,Romance
+35,Avatar,2009,7.9,Sci-Fi
+36,The Godfather Part II,1974,9.0,Crime
+37,WALL-E,2008,8.4,Animation
+38,Finding Nemo,2003,8.2,Animation
+39,Toy Story,1995,8.3,Animation
+40,Coco,2017,8.4,Animation
+41,Mad Max Fury Road,2015,8.1,Action
+42,No Country for Old Men,2007,8.2,Thriller
+43,There Will Be Blood,2007,8.2,Drama
+44,The Social Network,2010,7.8,Drama
+45,Gone Girl,2014,8.1,Thriller
+46,Shutter Island,2010,8.2,Thriller
+47,Inglourious Basterds,2009,8.3,War
+48,The Grand Budapest Hotel,2014,8.1,Comedy
+49,Ratatouille,2007,8.1,Animation
+50,Up,2009,8.3,Animation
